@@ -1,0 +1,4 @@
+platform :ios,'7.0'
+target'demoToBuddy' do
+pod 'RegexKitLite', '4.0'
+end
